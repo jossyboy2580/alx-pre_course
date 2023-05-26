@@ -1,0 +1,3 @@
+This is my first Repo for my ALX journey
+......
+im going to enjoy this journey
